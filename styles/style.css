@@ -848,12 +848,12 @@ span{
 }
 @media (max-width:1200px){
     .items{ 
-        margin-left: 30px;
+        margin-left: 0px;
 	}
 }
 @media (max-width:1600px){
     .items{ 
-        margin-left: 90px;
+        margin-left: 0px;
 	}
 }
 @media (max-width: 1024px) {
